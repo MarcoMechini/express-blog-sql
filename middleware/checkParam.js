@@ -1,4 +1,4 @@
-const postList = require("../data/posts")
+
 
 const checkParam = (req, res, next) => {
     next();
